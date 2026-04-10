@@ -1,0 +1,8 @@
+# Compiled Java-related files
+*.class
+
+bin/
+out/
+
+# Visual Studio Code
+.vscode/
